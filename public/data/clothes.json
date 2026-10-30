@@ -1,0 +1,269 @@
+{
+  "store": {
+    "name": "Your Brand",
+    "locale": "en-NG",
+    "nav": [
+      {
+        "label": "About",
+        "href": "#about"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact"
+      }
+    ],
+    "ticker": [
+      "Lagos",
+      "New drops"
+    ],
+    "rail": {
+      "mode": "bracketed",
+      "sag": 0,
+      "rotateMax": 62
+    },
+    "detailLayout": "centered",
+    "showPrice": true,
+    "showPriceTags": false,
+    "imageWidths": [
+      480,
+      960
+    ],
+    "finish": {
+      "theme": "alabaster",
+      "ticker": "cream",
+      "progress": "hairline",
+      "grain": true,
+      "cursor": true
+    }
+  },
+  "items": [
+    {
+      "id": "garment-1",
+      "name": "Garment 01",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm1-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 1 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2001"
+      }
+    },
+    {
+      "id": "garment-2",
+      "name": "Garment 02",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm2-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 2 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2002"
+      }
+    },
+    {
+      "id": "garment-3",
+      "name": "Garment 03",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm3-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 3 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2003"
+      }
+    },
+    {
+      "id": "garment-4",
+      "name": "Garment 04",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm4-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 4 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2004"
+      }
+    },
+    {
+      "id": "garment-5",
+      "name": "Garment 05",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm5-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 5 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2005"
+      }
+    },
+    {
+      "id": "garment-6",
+      "name": "Garment 06",
+      "price": {
+        "amount": 25000,
+        "currency": "NGN"
+      },
+      "category": "TODO",
+      "description": "TODO: one or two sentences about this garment.",
+      "details": [
+        "TODO: fabric",
+        "TODO: fit",
+        "TODO: care"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "soldOut": false,
+      "images": {
+        "front": {
+          "base": "/img/garm6-front",
+          "width": 2400,
+          "height": 3000,
+          "alt": "TODO: describe garment 6 on its hanger"
+        }
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.02
+      },
+      "cta": {
+        "label": "See availability",
+        "href": "https://wa.me/234776837345?text=Hi%2C%20I%20am%20interested%20in%20Garment%2006"
+      }
+    }
+  ]
+}

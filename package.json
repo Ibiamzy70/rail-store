@@ -9,7 +9,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "images": "node scripts/images.mjs",
-    "lhci": "lhci autorun"
+    "lhci": "lhci autorun",
+    "validate": "node scripts/validate-catalogue.mjs"
   },
   "repository": {
     "type": "git",
